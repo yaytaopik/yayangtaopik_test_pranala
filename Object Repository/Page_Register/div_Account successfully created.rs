@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account successfully created</name>
+   <tag></tag>
+   <elementGuidId>35990ea2-6b7e-48cf-943f-614a42eb78a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='success']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9da09b38-f3ff-46ef-93c7-05785ed6aeb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>c8626afa-41df-43b7-9c4e-eb976be787bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success col-lg-12 animated fadeInDown</value>
+      <webElementGuid>d212ed7f-9cdf-4140-89eb-ca48f1c9dde2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account successfully created</value>
+      <webElementGuid>8086a998-f839-4c00-9b95-00ceab27c02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;success&quot;)</value>
+      <webElementGuid>5ca7918e-092f-40a8-8a14-7e2632614c43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='success']</value>
+      <webElementGuid>ae7ecc9f-ede8-4521-b7dd-bef519ca0b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>5181a066-9724-4128-9d83-93b3a9da4435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'success' and (text() = 'Account successfully created' or . = 'Account successfully created')]</value>
+      <webElementGuid>445ac34b-8ee4-4626-b622-544943f7189e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
