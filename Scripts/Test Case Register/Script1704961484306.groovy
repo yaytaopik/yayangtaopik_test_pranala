@@ -54,6 +54,7 @@ if (paymentService == 'true') {
 	
 	WebUI.delay(5)
 	
+	//
 	WebUI.takeFullPageScreenshot()
 	
 	WebUI.takeFullPageScreenshot()
